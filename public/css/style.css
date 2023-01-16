@@ -1,0 +1,33 @@
+*{
+    
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    /* background-image:linear-gradient(rgba(155, 179, 189, 0.5),#a59494), url(images/1.jpg); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+label{
+    margin:10px 0px!important;
+  }
+  .form-title h2{
+margin-bottom: 30px;
+color: blue;
+text-transform: uppercase;
+transition: all 2s ease-in-out;
+text-align: center;
+}
+
+.title1{
+
+    font-family: sans-serif;
+    color: darkblue;
+    font-size: 20px;
+
+}

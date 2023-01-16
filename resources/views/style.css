@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+.first{
+    margin-top: 50px;
+
+}
+.orm-group label{
+    margin: 16px 0px;
+    display: inline-block;
+}
+.form-title{
+    margin-top: 100px;
+    color: blue;
+    text-transform: uppercase;
+    transition: all 2s ease-in-out;
+}
