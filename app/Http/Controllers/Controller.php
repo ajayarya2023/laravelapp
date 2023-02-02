@@ -10,4 +10,16 @@ use Illuminate\Routing\Controller as BaseController;
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+
+    function show($id)
+    {
+        echo "Hello I am Ajay from controller<br>";
+        return $id;
+
+    }
+    public function test ($user)
+    {
+        # code...
+        return view('about',['user1'=>$user]);
+    }
 }
