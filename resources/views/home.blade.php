@@ -26,6 +26,8 @@
   <div class="col-sm-6 col-md-6 ">
   <div class="form-title">
   <div class=title1><p>THINGS TO DO one</p> </div>
+  <div class=title1><p>THINGS TO DO one</p> </div>
+  <div class=title1><p>THINGS TO DO one</p> </div>
 </div>
 
   
